@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-Who coined the term machine learning in 1959?,a: Donald Hebb | b: Walter Pitts | c: Arthur Samuel | d: Warren McCulloch,c
-What book did Donald Hebb publish in 1949?,a: The Organization of Behavior | b: Learning Machines | c: Computing Machinery and Intelligence | d: The Organization of Artificial Neurons,a
-"What was the purpose of Cybertron, developed by Raytheon Company in the early 1960s?","a: Analyze weather patterns | b: Analyze sonar signals, electrocardiograms, and speech patterns | c: Play chess | d: Write poetry",b
-"According to Tom M. Mitchell, what is the definition of machine learning?","a: A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E. | b: Machines can think and feel emotions | c: A computer program can predict the future accurately | d: Machine learning is only concerned with cognitive tasks",a
-What are the two objectives of modern-day machine learning?,a: To cook food and clean the house | b: To classify data based on models and make predictions for future outcomes | c: To play video games and watch movies | d: To drive cars and fly airplanes,b
+What book did Canadian psychologist Donald Hebb publish in 1949?,a: The Organization of Behavior | b: Learning Machines | c: Computing Machinery and Intelligence | d: The term machine learning,a
+Who proposed the early mathematical models of neural networks?,a: Arthur Samuel | b: Donald Hebb | c: Walter Pitts | d: Warren McCulloch,c
+What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybertron | b: HAL 9000 | c: Skynet | d: R2-D2,a
+"Who provided a widely quoted, more formal definition of the algorithms studied in the machine learning field?",a: Tom M. Mitchell | b: Arthur Samuel | c: Donald Hebb | d: Walter Pitts,a
+What is one of the objectives of modern-day machine learning?,a: To cook food | b: To classify data based on models | c: To fly to Mars | d: To build houses,b
